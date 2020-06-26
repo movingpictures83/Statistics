@@ -1,6 +1,6 @@
 # Statistics
 # Language: Python
-# Input: CSV (unnormalized matrix)
+# Input: CSV 
 # Output: none (screen only)
 # Tested with: PluMA 1.0, Python 3.6
 
