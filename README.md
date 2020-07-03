@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV 
 # Output: none (screen only)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin to output statistics (mean, standard deviation, etc.) on the most abundant taxa in a sample.
 
